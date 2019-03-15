@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "da1600290991aa7b2cf35b53d30de641a26750ea"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "NetCore22.GRpcService.InstallGRpc/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf.Tools": "3.7.0",
+          "Grpc.Tools": "1.19.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "NetCore22.GRpcService.InstallGRpc.dll": {}
+        }
+      },
+      "Google.Protobuf.Tools/3.7.0": {},
+      "Grpc.Tools/1.19.0": {},
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCore22.GRpcService.InstallGRpc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf.Tools/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cugYwXGX9kEjnG3KbcvLrVmyA85JZ8hLX/vgvIA7CpGTWAXCP6wMrhNCdv6zR/6TFRlZPQgMifgw9yOAV23Mow==",
+      "path": "google.protobuf.tools/3.7.0",
+      "hashPath": "google.protobuf.tools.3.7.0.nupkg.sha512"
+    },
+    "Grpc.Tools/1.19.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ddt/Ab9836hZIgUe/+QGuou3aNUya4b2okWXR5/NDAOr/b/dnfplZ+/T4L9wBNiEGKx4P8DDnLzRXyNqQPDJzA==",
+      "path": "grpc.tools/1.19.0",
+      "hashPath": "grpc.tools.1.19.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    }
+  }
+}

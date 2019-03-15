@@ -1,0 +1,9 @@
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.deps.json
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.pdb
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.csprojAssemblyReference.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.AssemblyInfo.cs
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.Protocol\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.pdb

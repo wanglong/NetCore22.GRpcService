@@ -1,0 +1,17 @@
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.csprojAssemblyReference.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.AssemblyInfo.cs
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.exe
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.deps.json
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.runtimeconfig.json
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.runtimeconfig.dev.json
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.pdb
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.Impl.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.Impl.pdb
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\bin\Debug\netcoreapp2.1\NetCore22.GRpcService.Protocol.pdb
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.csproj.CopyComplete
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.HostingServer\obj\Debug\netcoreapp2.1\NetCore22.GRpcService.HostingServer.pdb

@@ -1,0 +1,6 @@
+D:\AspNetCoreTest\NetCore22.GRpcService\NetFramework.GRpcService.InstallgRPC\bin\Debug\NetFramework.GRpcService.InstallgRPC.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetFramework.GRpcService.InstallgRPC\bin\Debug\NetFramework.GRpcService.InstallgRPC.pdb
+D:\AspNetCoreTest\NetCore22.GRpcService\NetFramework.GRpcService.InstallgRPC\obj\Debug\NetFramework.GRpcService.InstallgRPC.csprojAssemblyReference.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetFramework.GRpcService.InstallgRPC\obj\Debug\NetFramework.GRpcService.InstallgRPC.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetFramework.GRpcService.InstallgRPC\obj\Debug\NetFramework.GRpcService.InstallgRPC.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetFramework.GRpcService.InstallgRPC\obj\Debug\NetFramework.GRpcService.InstallgRPC.pdb

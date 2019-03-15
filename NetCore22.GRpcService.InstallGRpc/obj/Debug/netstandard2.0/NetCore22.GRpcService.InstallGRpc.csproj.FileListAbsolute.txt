@@ -1,0 +1,9 @@
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\bin\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.deps.json
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\bin\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\obj\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\obj\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\obj\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.AssemblyInfo.cs
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\bin\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.pdb
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\obj\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.dll
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\obj\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.pdb
+D:\AspNetCoreTest\NetCore22.GRpcService\NetCore22.GRpcService.InstallGRpc\obj\Debug\netstandard2.0\NetCore22.GRpcService.InstallGRpc.csprojAssemblyReference.cache
